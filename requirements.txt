@@ -1,0 +1,5 @@
+dnspython~=2.2.1
+pandas~=1.4.4
+logdecorator~=2.4
+ping3~=4.0.3
+openpyxl~=3.0.10
